@@ -9,6 +9,7 @@ Bovision last dance III - kezdődjék a tánc
 models for behavioral analysis**
   - [paper link](https://arxiv.org/pdf/2203.07436v4.pdf)
   - DLC Model Zoo: Available
-  - ![]()
+  - Test: [Huggingface DLC Model zoo tester](https://huggingface.co/spaces/DeepLabCut/DeepLabCutModelZoo-SuperAnimals)
+  - ![](img/markedcow.png)
 
 
