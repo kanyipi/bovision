@@ -11,5 +11,13 @@ models for behavioral analysis**
   - DLC Model Zoo: Available
   - Test: [Huggingface DLC Model zoo tester](https://huggingface.co/spaces/DeepLabCut/DeepLabCutModelZoo-SuperAnimals)
   - ![](img/markedcow.png)
+  - We developed a new framework called panoptic pose esti-
+mation, where models can be used across various environ-
+ments in a **zero-shot** manner and if fine-tuned, they **require
+10-100× less labeled data** than previous models. They also show increased performance compared to Im-
+ageNet transfer learning, plus we demonstrate their ability
+to be used in **down-stream tasks such as behavioral classifi-
+cation**, suggesting they could become foundation
+models for animal pose estimation
 
 
